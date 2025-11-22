@@ -46,5 +46,5 @@ TumorTracer is an AI-powered brain tumor detection system that classifies MRI sc
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/VikasSingh2011/TumorTracer-main
+   git clone https://github.com/VikasSingh2011/TumorTracer-main/blob/main/README.md
    cd TumorTracer-main
